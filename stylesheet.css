@@ -1,0 +1,35 @@
+.head {
+    text-align: center;
+    color: white;
+    position:absolute;
+    text-align: center;
+    width: 100%;
+    padding-top: 70px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: lighter;
+}
+.title {
+    color:rgb(23, 122, 133);
+    font-family: 'Times New Roman', Times, serif;
+}
+.middle {
+    padding-left: 130px;
+    padding-right: 130px;
+} 
+.last {text-align: right;
+    padding-left: 130px;
+    padding-right: 130px;
+    padding-bottom: 50px;
+}
+.footer {
+    font-size: 15px;
+    height: 75px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+}
+
+
